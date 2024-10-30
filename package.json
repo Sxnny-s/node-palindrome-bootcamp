@@ -1,0 +1,12 @@
+{
+  "name": "palindrome-bootcamp",
+  "version": "1.0.0",
+  "description": "### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
