@@ -1,22 +1,30 @@
-# ↔️ Week08 Bootcamp2019a Project: Server Side Palindrome Checker
+# Palindrome Validator Web Application
 
-### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
+## Goal
 
-### How to submit your code for review:
+This project is a simple web application that validates if a string is a palindrome on the server side using Node.js. The application uses the built-in `fs` (File System) and `http` modules to handle HTTP requests and file operations.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Features
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+- Accepts a string via an HTTP request.
+- Validates if the string is a palindrome (a word, phrase, or sequence that reads the same backward as forward).
+- Uses the `fs` module to log the requests to a file for persistence.
+- Responds to the client with the result of the palindrome check.
+
+## Screen Shots
+![image](https://github.com/user-attachments/assets/40e349eb-2137-49f8-9e39-db56121b73aa)
+
+
+
+## Live Demo
+=> [HERE](https://wise-rock-paper-scissors.netlify.app/](https://palindromechecker3000.netlify.app/))
+
+
+## Technologies Used
+
+- **Node.js**: The JavaScript runtime used for server-side logic.
+- **`http` module**: To handle HTTP requests and responses.
+- **`fs` module**: To read from and write to files for logging purposes.
+
+
+
