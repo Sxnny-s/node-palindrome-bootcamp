@@ -11,6 +11,10 @@ This project is a simple web application that validates if a string is a palindr
 - Uses the `fs` module to log the requests to a file for persistence.
 - Responds to the client with the result of the palindrome check.
 
+## Screen Shots
+![image](https://github.com/user-attachments/assets/bf366f0c-565f-4578-8b54-06fa7e8d6bed)
+
+
 ## Technologies Used
 
 - **Node.js**: The JavaScript runtime used for server-side logic.
