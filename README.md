@@ -17,7 +17,7 @@ This project is a simple web application that validates if a string is a palindr
 
 
 ## Live Demo
-=> [HERE]([https://wise-rock-paper-scissors.netlify.app/](https://palindromechecker3000.netlify.app/))
+=> [HERE](https://palindromechecker3000.netlify.app/)
 
 
 ## Technologies Used
