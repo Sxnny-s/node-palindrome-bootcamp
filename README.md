@@ -12,11 +12,12 @@ This project is a simple web application that validates if a string is a palindr
 - Responds to the client with the result of the palindrome check.
 
 ## Screen Shots
-![image](https://github.com/user-attachments/assets/bf366f0c-565f-4578-8b54-06fa7e8d6bed)
+![image](https://github.com/user-attachments/assets/40e349eb-2137-49f8-9e39-db56121b73aa)
+
 
 
 ## Live Demo
-=> [HERE](https://wise-rock-paper-scissors.netlify.app/)
+=> [HERE]([https://wise-rock-paper-scissors.netlify.app/](https://palindromechecker3000.netlify.app/))
 
 
 ## Technologies Used
